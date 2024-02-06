@@ -14,8 +14,6 @@ Powerful MERN Stack Ecommerce Project using React, Redux, Node.js, Express, Mong
 -   Complete ratings & reviews system
 -   Complete Cart & Checkout process
 
-[Live Site](https://shopx-mern-app.herokuapp.com/)
-
 ## Homepage
 
 <img src="./assets/2022-08-03_094154.png" alt="Home Page" title="Home Page">
